@@ -77,14 +77,12 @@ You may refer to the following scripts for the corresponding implementations:
 The baselines used in our experiments cover both CNN-based and Transformer-based architectures for 2D fundus images and 3D OCT volumes.
 
 ### CNN-based Models
-- **Fundus (2D):**  [https://github.com/LeiJiangJNU/Res2Net](https://github.com/LeiJiangJNU/Res2Net)
-- **OCT (3D):**   [https://github.com/cshwhale/Med3D](https://github.com/cshwhale/Med3D)
-
+- **2D Fundus** — [Code](https://github.com/LeiJiangJNU/Res2Net)
+- **3D OCT** — [Code](https://github.com/cshwhale/Med3D)
 
 ### Transformer-based Models
-- **Fundus (2D):**  [https://github.com/microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
-- **OCT (3D):**  [https://github.com/Project-MONAI/research-contributions/tree/main/UNETR](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR)
-
+- **2D Fundus** — [Code](https://github.com/microsoft/Swin-Transformer)
+- **3D OCT** — [Code](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR)
 
 
 ```
