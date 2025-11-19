@@ -34,7 +34,7 @@ IMDR outperforms the state-of-the-art methods significantly.
 
 - Regarding the data, some parts involve third-party benchmarks with copyright or usage restrictions, so we cannot release the fully processed dataset. The repository includes links to all public datasets used, along with ID indices for reproduction. If you need our preprocessed data, please contact me by email, we can share it via Baidu Netdisk or other transfer methods.
 
-For the complete pipeline, please refer to [https://github.com/Qinkaiyu/RIMA](https://github.com/Qinkaiyu/RIMA)
+
 
 
 
@@ -68,6 +68,8 @@ python medical_data_process.py
 ```
 
 ## Implementation
+For the complete pipeline, please refer to [https://github.com/Qinkaiyu/RIMA](https://github.com/Qinkaiyu/RIMA)  Due to the server migration and permission issues, some components of the original pipeline were temporarily unavailable. We will continue to improve this repository and provide fully automated one-click training and evaluation scripts in future updates.
+
 
 ```
 
