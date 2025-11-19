@@ -29,9 +29,7 @@ IMDR outperforms the state-of-the-art methods significantly.
  ## 💡 Note
 
 - The previous codebase was removed during a server clean-up and is no longer accessible. Please refer to the current version of the repository provided here.
-
-- The full pipeline was originally deployed on an older server, and due to maintenance and update constraints, the code was not synchronized in real time. We apologize for any inconvenience caused.
-
+ 
 - Regarding the data, some parts involve third-party benchmarks with copyright or usage restrictions, so we cannot release the fully processed dataset. The repository includes links to all public datasets used, along with ID indices for reproduction. If you need our preprocessed data, please contact me by email, we can share it via Baidu Netdisk or other transfer methods.
 
 
