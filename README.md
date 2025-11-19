@@ -78,3 +78,13 @@ You may refer to the following scripts for the corresponding implementations:
 python code/distill_method.py
 python code/our_model.py
 ```
+
+## Baseline 
+For reference, the baseline implementations can be found in the following scripts:
+
+```
+python code/baseline.py
+```
+
+
+
