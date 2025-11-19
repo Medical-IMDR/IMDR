@@ -66,8 +66,6 @@ python medical_data_process.py
 ├── DR ...
 ├── Glaucoma ... 
 ```
-### Implementation
-Due to the server migration and permission issues, some components of the original pipeline were temporarily unavailable. We will continue to improve this repository and provide fully automated one-click training and evaluation scripts in future updates.
 
 ## 🧠 Training Overview
 Our method consists of two major components: **teacher model training** and **student model distillation**.  
@@ -95,6 +93,9 @@ For reference, the baseline implementations can be found in the following script
 ```
 python code/baseline.py
 ```
+
+### Update
+We will continue to improve this repository and provide fully automated one-click training and evaluation scripts in future updates.
 
 ## Citation
 ```
