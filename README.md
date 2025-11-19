@@ -46,7 +46,7 @@ IMDR outperforms the state-of-the-art methods significantly.
 python medical_data_process.py
 ```
 - The meta-data above provides the corresponding **IDs** and **labels** required for processing the official dataset [FairVision30K Dataset](https://yutianyt.com/projects/fairvision30k/).
-- GAMMA dataset can be found here:  [https://aistudio.baidu.com/aistudio/competition/detail/807](https://aistudio.baidu.com/aistudio/competition/detail/807)
+- GAMMA dataset can be found here:  [GAMMA](https://aistudio.baidu.com/aistudio/competition/detail/807)
 
 ```
 2D-Fundus & 3D OCT
