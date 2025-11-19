@@ -25,3 +25,27 @@ eliminating intra-modality redundancy by exploiting the ex-
 tracted proxies from each class. Experiments on four ophthal-
 mology multimodal datasets demonstrate that the proposed
 IMDR outperforms the state-of-the-art methods significantly.
+
+
+## 👨‍💻 Data Preparation
+
+
+
+```
+2D-Fundus & 3D OCT
+├── AMD
+│   ├── Train
+│   │   ├── fundus.png
+│   │   └── OCT_Slices
+│   │       ├── slice_1.png
+│   │       ├── slice_2.png
+│   │       └── ...
+│   ├── Test
+│   │   ├── fundus.png
+│   │   └── OCT_Slices
+│   │       ├── slice_1.png
+│   │       ├── slice_2.png
+│   │       └── ...
+├── DR ...
+├── Glaucoma ... 
+```
