@@ -97,5 +97,18 @@ For reference, the baseline implementations can be found in the following script
 python code/baseline.py
 ```
 
+## Citation
+```
+@misc{liu2025incompletemodalitydisentangledrepresentation,
+      title={Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis}, 
+      author={Chengzhi Liu and Zile Huang and Zhe Chen and Feilong Tang and Yu Tian and Zhongxing Xu and Zihong Luo and Yalin Zheng and Yanda Meng},
+      year={2025},
+      eprint={2502.11724},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.11724}, 
+}
+```
+
 
 
