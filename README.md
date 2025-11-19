@@ -34,8 +34,9 @@ IMDR outperforms the state-of-the-art methods significantly.
 
 - The full pipeline was originally deployed on an older server, and due to maintenance and update constraints, the code was not synchronized in real time. We apologize for any inconvenience caused.
 
-- Regarding the data, some parts involve third-party benchmarks with copyright or usage restrictions, so we cannot release the fully processed dataset. The repository includes links to all public datasets used, along with ID indices for reproduction. If you need our preprocessed data, please contact me by email — we can share it via Baidu Netdisk or other transfer methods.
+- Regarding the data, some parts involve third-party benchmarks with copyright or usage restrictions, so we cannot release the fully processed dataset. The repository includes links to all public datasets used, along with ID indices for reproduction. If you need our preprocessed data, please contact me by email, we can share it via Baidu Netdisk or other transfer methods.
 
+For the complete pipeline, please refer to [https://github.com/Qinkaiyu/RIMA](https://github.com/Qinkaiyu/RIMA)
 
 
 
