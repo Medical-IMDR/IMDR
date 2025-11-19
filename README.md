@@ -25,6 +25,7 @@ eliminating intra-modality redundancy by exploiting the ex-
 tracted proxies from each class. Experiments on four ophthal-
 mology multimodal datasets demonstrate that the proposed
 IMDR outperforms the state-of-the-art methods significantly.
+![Teaser figure](method_00.png)
 
  ## 💡 Note
 
