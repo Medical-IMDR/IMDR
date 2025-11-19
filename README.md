@@ -40,7 +40,13 @@ For the complete pipeline, please refer to [https://github.com/Qinkaiyu/RIMA](ht
 
 ## 👨‍💻 Data Preparation
 - You may contact us directly or leave your email address in an issue. We regularly check the issues and will send you the download link via cloud storage. 
-- In addition, please refer to the official overall dataset:  [FairVision30K Dataset](https://yutianyt.com/projects/fairvision30k/) 
+- In addition, please refer to the official overall dataset:  [FairVision30K Dataset](https://yutianyt.com/projects/fairvision30k/)
+- If you would like to process the official dataset yourself, you can refer to our data processing script:
+
+
+```
+python medical_data_process.py
+```
 
 ```
 2D-Fundus & 3D OCT
