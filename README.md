@@ -70,7 +70,11 @@ python medical_data_process.py
 ## Implementation
 For the complete pipeline, please refer to [https://github.com/Qinkaiyu/RIMA](https://github.com/Qinkaiyu/RIMA)  Due to the server migration and permission issues, some components of the original pipeline were temporarily unavailable. We will continue to improve this repository and provide fully automated one-click training and evaluation scripts in future updates.
 
+## 🧠 Training Overview
+Our method consists of two major components: **teacher model training** and **student model distillation**.  
+You may refer to the following scripts for the corresponding implementations:
 
 ```
-
+python code/distill_method.py
+python code/our_model.py
 ```
