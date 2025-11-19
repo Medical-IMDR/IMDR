@@ -40,8 +40,6 @@ For the complete pipeline, please refer to [https://github.com/Qinkaiyu/RIMA](ht
 
 ## 👨‍💻 Data Preparation
 
-
-
 ```
 2D-Fundus & 3D OCT
 ├── AMD
@@ -59,4 +57,10 @@ For the complete pipeline, please refer to [https://github.com/Qinkaiyu/RIMA](ht
 │   │       └── ...
 ├── DR ...
 ├── Glaucoma ... 
+```
+
+## Implementation
+
+```
+
 ```
