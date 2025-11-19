@@ -28,8 +28,6 @@ IMDR outperforms the state-of-the-art methods significantly.
 
  ## 💡 Note
 
- ## 💡 Note
-
 - The previous codebase was removed during a server clean-up and is no longer accessible. Please refer to the current version of the repository provided here.
 
 - The full pipeline was originally deployed on an older server, and due to maintenance and update constraints, the code was not synchronized in real time. We apologize for any inconvenience caused.
