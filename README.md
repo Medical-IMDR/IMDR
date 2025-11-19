@@ -36,17 +36,17 @@ IMDR outperforms the state-of-the-art methods significantly.
 
 
 
-
-
 ## 👨‍💻 Data Preparation
 - You may contact us directly or leave your email address in an issue. We regularly check the issues and will send you the download link via cloud storage. 
 - In addition, please refer to the official overall dataset:  [FairVision30K Dataset](https://yutianyt.com/projects/fairvision30k/)
 - If you would like to process the official dataset yourself, you can refer to our data processing script:
 
-
 ```
 python medical_data_process.py
-```
+``
+- The meta-data above provides the corresponding **IDs** and **labels** required for processing the official dataset [FairVision30K Dataset](https://yutianyt.com/projects/fairvision30k/).
+- GAMMA dataset can be found here:  [https://aistudio.baidu.com/aistudio/competition/detail/807](https://aistudio.baidu.com/aistudio/competition/detail/807)
+
 
 ```
 2D-Fundus & 3D OCT
